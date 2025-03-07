@@ -10,7 +10,7 @@ Hi 👋, there! I'm ALIZA ALI (@stackmasteraliza), a passionate Full-Stack Devel
 ## Skills and Expertise
 
 - **Frontend Development:** HTML, CSS, JavaScript, React.js, Flutter, React Native
-- **Backend Development:** PHP (Laravel), MySQL, PostgreSQL
+- **Backend Development:** PHP (Laravel), Node, MySQL, PostgreSQL
 - **Other Technologies:** Git, RESTful APIs, UI/UX Design
 
 ## Languages and tools: 
