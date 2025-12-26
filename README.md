@@ -44,6 +44,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - LinkedIn: [stackmasteraliza](https://www.linkedin.com/in/stackmasteraliza/)
 - Facebook: [stackmasteraliza](https://www.facebook.com/stackmasteraliza/)
 - Instagram: [stackmasteraliza](https://www.instagram.com/stackmasteraliza/)
+- YouTube: [stackmasteraliza](https://www.youtube.com/@stackmasteraliza/)
 
 Let's connect and build something amazing together! 😊
 
