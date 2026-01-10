@@ -117,7 +117,7 @@ I build engaging websites and applications with modern frontend frameworks and r
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=stackmasteraliza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 ## Let's Connect
