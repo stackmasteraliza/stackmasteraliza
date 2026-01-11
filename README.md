@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=ALIZA+ALI" alt="Aliza Ali" /></h1>
+<h1>ALIZA ALI</h1>
 
 **Full-Stack Developer | Mobile App Developer | Open Source Contributor**
 
@@ -130,9 +130,9 @@ I build engaging websites and applications with modern frontend frameworks and r
 *Open to collaborating on interesting projects*
 
 [![Portfolio](https://img.shields.io/badge/alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
-[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-1a7f4b?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
-[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-1a7f4b?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
-[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-1a7f4b?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
+[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
+[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
 
 </div>
 
@@ -140,6 +140,6 @@ I build engaging websites and applications with modern frontend frameworks and r
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=1a7f4b&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=3d2314&style=flat-square&label=Profile+Views)
 
 </div>
