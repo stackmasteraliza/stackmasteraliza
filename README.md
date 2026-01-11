@@ -1,15 +1,15 @@
 <div align="center">
 
-<h1 style="font-size: 5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ALIZA ALI</h1>
+<h1 style="font-size: 4em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ALIZA ALI</h1>
 
 **Full-Stack Developer | Mobile App Developer | Open Source Contributor**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stackmasteraliza/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@stackmasteraliza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stackmasteraliza/)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stackmasteraliza/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stackmasteraliza/)
+[![YouTube](https://img.shields.io/badge/YouTube-8B0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@stackmasteraliza/)
+[![Instagram](https://img.shields.io/badge/Instagram-8B2252?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stackmasteraliza/)
+[![Facebook](https://img.shields.io/badge/Facebook-003366?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stackmasteraliza/)
+[![Email](https://img.shields.io/badge/Email-B71C1C?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
 
 </div>
 
@@ -34,13 +34,13 @@ I build engaging websites and applications with modern frontend frameworks and r
 ### Frontend
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-9C2410?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D4F7A?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-B8A000?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-0A7EA4?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-2E7D32?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4338CA?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 </td>
@@ -49,11 +49,11 @@ I build engaging websites and applications with modern frontend frameworks and r
 ### Backend
 <div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-B71C1C?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1B5E20?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-8B0A1A?style=for-the-badge&logo=nestjs&logoColor=white)
 
 </div>
 </td>
@@ -62,9 +62,9 @@ I build engaging websites and applications with modern frontend frameworks and r
 ### Mobile
 <div align="center">
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0A7EA4?style=for-the-badge&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-01579B?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-BF360C?style=for-the-badge&logo=swift&logoColor=white)
 
 </div>
 </td>
@@ -75,11 +75,11 @@ I build engaging websites and applications with modern frontend frameworks and r
 ### Databases
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00566F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2F4F7F?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-BF360C?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1B5E20?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 </td>
@@ -88,13 +88,13 @@ I build engaging websites and applications with modern frontend frameworks and r
 ### Tools
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Git](https://img.shields.io/badge/Git-BF360C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0D4F7A?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-B71C1C?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-003366?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-2E1A47?style=for-the-badge&logo=slack&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-4C3D99?style=for-the-badge&logo=clickup&logoColor=white)
 
 </div>
 </td>
@@ -130,9 +130,9 @@ I build engaging websites and applications with modern frontend frameworks and r
 *Open to collaborating on interesting projects*
 
 [![Portfolio](https://img.shields.io/badge/alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
-[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
-[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
-[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-5b21b6?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
+[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-B71C1C?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-00695C?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
+[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-01579B?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
 
 </div>
 
