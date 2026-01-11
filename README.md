@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>ALIZA ALI</h1>
+<h1 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ALIZA ALI</h1>
 
 **Full-Stack Developer | Mobile App Developer | Open Source Contributor**
 
@@ -115,12 +115,12 @@ I build engaging websites and applications with modern frontend frameworks and r
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-bice-xi.vercel.app/api?username=stackmasteraliza&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71" alt="GitHub Stats" height="180"/>
-  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=stackmasteraliza&layout=compact&hide_border=true&bg_color=161b22&title_color=2ecc71&text_color=ffffff" alt="Top Languages" height="180"/>
+  <img src="https://github-stats-bice-xi.vercel.app/api?username=stackmasteraliza&show_icons=true&hide_border=true&count_private=true&bg_color=161b22&title_color=c4b5fd&text_color=ffffff&icon_color=c4b5fd" alt="GitHub Stats" height="180"/>
+  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=stackmasteraliza&layout=compact&hide_border=true&bg_color=161b22&title_color=c4b5fd&text_color=ffffff" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&hide_border=true&background=161b22&stroke=161b22&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=ffffff&currStreakNum=ffffff&sideNums=2ecc71&dates=9f9f9f" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&hide_border=true&background=161b22&stroke=161b22&ring=c4b5fd&fire=c4b5fd&currStreakLabel=c4b5fd&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c4b5fd&dates=9f9f9f" alt="GitHub Streak"/>
 </div>
 
 ## Contact
@@ -130,9 +130,9 @@ I build engaging websites and applications with modern frontend frameworks and r
 *Open to collaborating on interesting projects*
 
 [![Portfolio](https://img.shields.io/badge/alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
-[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
-[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
-[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-3d2314?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
+[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
+[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-5b21b6?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
 
 </div>
 
@@ -140,6 +140,6 @@ I build engaging websites and applications with modern frontend frameworks and r
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=3d2314&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=4c1d95&style=flat-square&label=Profile+Views)
 
 </div>
