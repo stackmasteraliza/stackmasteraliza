@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size: 3em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ALIZA ALI</h1>
+<h1 style="font-size: 5em; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ALIZA ALI</h1>
 
 **Full-Stack Developer | Mobile App Developer | Open Source Contributor**
 
