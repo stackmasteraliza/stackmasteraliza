@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aliza Ali
+<h1><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=45&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=ALIZA+ALI" alt="Aliza Ali" /></h1>
 
 **Full-Stack Developer | Mobile App Developer | Open Source Contributor**
 
@@ -115,19 +115,30 @@ I build engaging websites and applications with modern frontend frameworks and r
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-bice-xi.vercel.app/api?username=stackmasteraliza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=stackmasteraliza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+  <img src="https://github-stats-bice-xi.vercel.app/api?username=stackmasteraliza&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ecc71&text_color=ffffff&icon_color=2ecc71" alt="GitHub Stats" height="180"/>
+  <img src="https://github-stats-bice-xi.vercel.app/api/top-langs/?username=stackmasteraliza&layout=compact&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=ffffff" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&hide_border=true&background=0D1117&stroke=0D1117&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9f9f9f" alt="GitHub Streak"/>
+</div>
+
+## Contact
+
+<div align="center">
+
+*Open to collaborating on interesting projects*
+
+[![Portfolio](https://img.shields.io/badge/alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
+[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
+[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
+
 </div>
 
 ---
 
 <div align="center">
-
-*Open to collaborating on interesting projects*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=6366f1&style=flat-square&label=Profile+Views)
 
