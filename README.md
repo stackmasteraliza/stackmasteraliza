@@ -1,11 +1,15 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=220&section=header&text=Aliza%20Ali&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16&descColor=E2E8F0)
+# Aliza Ali
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stackmasteraliza/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stackmasteraliza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stackmasteraliza/)
-[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stackmasteraliza/)
+**Full-Stack Developer | Mobile App Developer | Open Source Contributor**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stackmasteraliza/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@stackmasteraliza/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stackmasteraliza/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/stackmasteraliza/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
 
 </div>
 
@@ -14,7 +18,6 @@
 ```javascript
 const aliza = {
     role: "Full-Stack Developer",
-    location: "Pakistan",
     currentFocus: ["Web Development", "Mobile Apps", "Open Source"],
     funFact: "I turn coffee into code and bugs into features!"
 };
@@ -120,22 +123,12 @@ I build engaging websites and applications with modern frontend frameworks and r
   <img src="https://github-readme-streak-stats-ten-ebon-72.vercel.app/api/?user=stackmasteraliza&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
-## Let's Connect
-
-<div align="center">
-
-I'm always open to collaborating on interesting projects or discussing new ideas.
-
-<a href="mailto:stackmasteraliza@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stackmasteraliza&color=6366f1&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=120&section=footer)
+*Open to collaborating on interesting projects*
+
+![Profile Views](https://komarev.com/ghpvc/?username=stackmasteraliza&color=6366f1&style=flat-square&label=Profile+Views)
+
+</div>
