@@ -22,7 +22,6 @@ const aliza = {
     location: "Earth",
     role: "Full-Stack Developer",
     workingOn: "Building awesome web & mobile applications",
-    learning: ["Python", "Docker", "AWS"],
     askMeAbout: ["Web Dev", "Mobile Apps", "Laravel", "React", "Open Source"],
     hobbies: ["Coding", "Learning new tech", "Contributing to OSS"],
     funFact: "I turn coffee into code and bugs into features!"
@@ -87,11 +86,11 @@ I'm a passionate **Full-Stack Developer** who loves building things that live on
 ![Figma](https://img.shields.io/badge/Figma-B71C1C?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-8B3A0D?style=for-the-badge&logo=postman&logoColor=white)
 
-**Currently Learning**
+<!-- **Currently Learning**
 
 ![Python](https://img.shields.io/badge/Python-1A4E6F?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-1A1F25?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1E3A5F?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1E3A5F?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 
 ---
 
