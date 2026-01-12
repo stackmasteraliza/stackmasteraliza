@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+beautiful+web+experiences;Crafting+mobile+apps+that+users+love;Open+source+enthusiast+%26+contributor;Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alizaali.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://alizaali.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alizaali.com-000000?style=flat-square&logo=safari&logoColor=white)](https://alizaali.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stackmasteraliza/)
 [![YouTube](https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stackmasteraliza/)
 [![Instagram](https://img.shields.io/badge/Instagram-8B2252?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stackmasteraliza/)
@@ -19,12 +19,12 @@
 
 ```javascript
 const aliza = {
-    location: "Earth",
-    role: "Full-Stack Developer",
-    workingOn: "Building awesome web & mobile applications",
-    askMeAbout: ["Web Dev", "Mobile Apps", "Laravel", "React", "Open Source"],
-    hobbies: ["Coding", "Learning new tech", "Contributing to OSS"],
-    funFact: "I turn coffee into code and bugs into features!"
+  location: "Earth",
+  role: "Full-Stack Developer",
+  workingOn: "Building awesome web & mobile applications",
+  askMeAbout: ["Web Dev", "Mobile Apps", "Laravel", "React", "Open Source"],
+  hobbies: ["Coding", "Learning new tech", "Contributing to OSS"],
+  funFact: "I turn coffee into code and bugs into features!",
 };
 ```
 
@@ -124,20 +124,19 @@ I'm a passionate **Full-Stack Developer** who loves building things that live on
   <img src="https://raw.githubusercontent.com/stackmasteraliza/stackmasteraliza/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-
 ---
 
 ## :mailbox_with_mail: Let's Connect
 
 <div align="center">
 
-*I'm always interested in hearing about new projects and opportunities!*
+_I'm always interested in hearing about new projects and opportunities!_
 
 [![Portfolio](https://img.shields.io/badge/Check_out_my_Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://alizaali.com)
 
-[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-B71C1C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
-[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-00695C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
-[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-01579B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
+[![Email](https://img.shields.io/badge/stackmasteraliza@gmail.com-B71C1C?style=flat-square&logo=gmail&logoColor=white)](mailto:stackmasteraliza@gmail.com)
+[![Email](https://img.shields.io/badge/alizaalidev@gmail.com-00695C?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaalidev@gmail.com)
+[![Email](https://img.shields.io/badge/alizaali9490@gmail.com-01579B?style=flat-square&logo=gmail&logoColor=white)](mailto:alizaali9490@gmail.com)
 
 </div>
 
@@ -161,7 +160,7 @@ If you find my work helpful, consider buying me a coffee!
 
 **Thanks for visiting!** :wave:
 
-*Made with :heart: by Aliza Ali*
+_Made with :heart: by Aliza Ali_
 
 </div>
 
