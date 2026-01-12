@@ -28,25 +28,19 @@ const aliza = {
 };
 ```
 
-<table>
-  <tr>
-    <td valign="middle">
-      <p>
-        I'm a passionate <strong>Full-Stack Developer</strong> who loves building things that live on the internet.
-        I specialize in creating engaging websites and applications with modern frontend frameworks and robust backend solutions.
-      </p>
-      <p>
-        🚀 Currently working on <strong>exciting web & mobile projects</strong><br/>
-        🌱 Learning <strong>Python, Docker & AWS</strong> to expand my skillset<br/>
-        🤝 Open to collaborating on <strong>open source projects</strong><br/>
-        ⚡ Fun fact: I debug code while drinking coffee
-      </p>
-    </td>
-    <td width="300" align="center" valign="middle">
-      <img alt="Aliza Ali" width="280" src="./assets/profile.png" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+<!-- <img align="right" alt="Aliza Ali" width="280" src="./assets/profile.png"/> -->
+
+I'm a passionate **Full-Stack Developer** who loves building things that live on the internet. I specialize in creating engaging websites and applications with modern frontend frameworks and robust backend solutions.
+
+🚀 Currently working on **exciting web & mobile projects**
+
+🌱 Learning **Python, Docker & AWS** to expand my skillset
+
+🤝 Open to collaborating on **open source projects**
+
+⚡ Fun fact: I debug code while drinking coffee
+
+<br clear="both"/>
 
 ---
 
