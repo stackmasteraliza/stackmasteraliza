@@ -28,16 +28,25 @@ const aliza = {
 };
 ```
 
-<img align="right" alt="Aliza Ali" width="320" src="./assets/laptop.png" style="border-radius: 10px;"/>
-
-I'm a passionate **Full-Stack Developer** who loves building things that live on the internet. I specialize in creating engaging websites and applications with modern frontend frameworks and robust backend solutions.
-
-- :rocket: Currently working on **exciting web & mobile projects**
-- :seedling: Learning **Python, Docker & AWS** to expand my skillset
-- :handshake: Open to collaborating on **open source projects**
-- :zap: Fun fact: I debug code while drinking coffee
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td valign="middle">
+      <p>
+        I'm a passionate <strong>Full-Stack Developer</strong> who loves building things that live on the internet.
+        I specialize in creating engaging websites and applications with modern frontend frameworks and robust backend solutions.
+      </p>
+      <p>
+        🚀 Currently working on <strong>exciting web & mobile projects</strong><br/>
+        🌱 Learning <strong>Python, Docker & AWS</strong> to expand my skillset<br/>
+        🤝 Open to collaborating on <strong>open source projects</strong><br/>
+        ⚡ Fun fact: I debug code while drinking coffee
+      </p>
+    </td>
+    <td width="300" align="center" valign="middle">
+      <img alt="Aliza Ali" width="280" src="./assets/profile.png" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,7 +130,6 @@ I'm a passionate **Full-Stack Developer** who loves building things that live on
   <img src="https://raw.githubusercontent.com/stackmasteraliza/stackmasteraliza/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
-> **Note:** To enable the snake animation, add a GitHub Action workflow. See instructions below.
 
 ---
 
